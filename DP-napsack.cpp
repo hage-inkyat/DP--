@@ -1,3 +1,7 @@
+/*nn 個の品物があり、ii 番目の品物のそれぞれ重さと価値が weight[i],value[i]weight[i],value[i] 
+となっている (i=0,1,...,n−1i=0,1,...,n−1)。
+これらの品物から重さの総和が WW を超えないように選んだときの、
+価値の総和の最大値を求めよ。*/
 #include<bits/stdc++.h>
 using namespace std;
 
